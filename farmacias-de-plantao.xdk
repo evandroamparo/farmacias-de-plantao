@@ -6,7 +6,7 @@
       "projectTypeName": "com.intel.xdk.projecttype.jsapp",
       "src": "appDesigner",
       "projectGuid": "0a5fc684-9a59-4f03-add2-d5bdc27e8883",
-      "lastModifiedDate": 1432001911133,
+      "lastModifiedDate": 1432004979414,
       "creationDate": 1432001910307
     },
     "XDK-app-designer": "true",
@@ -48,8 +48,8 @@
           "android-installLocation": "auto"
         },
         "isActive_": true,
-        "appName_": "farmacias-de-plantao",
-        "appID_": "xdk.intel.blank.ad.template.crosswalk",
+        "appName_": "Farmácias de plantão",
+        "appID_": "com.evandroamparo.farmacias",
         "appAccess_": [
           {
             "origin": "*"
@@ -63,8 +63,8 @@
         "cordovaCLIVersion_": "4.1.2",
         "crosswalkVersion_": "11",
         "appVersion_": "0.0.1",
-        "appAuthor_": "Intel XDK",
-        "appDescription_": "Template to develop a Cordova mobile web app using the App Designer UI editor.",
+        "appAuthor_": "Evandro da Silva Amparo",
+        "appDescription_": "Consulte as farmácias de plantão nos próximos domingos e feriados",
         "appVersionCode_": "1"
       },
       "Android": {
@@ -77,8 +77,8 @@
           "android-installLocation": "auto"
         },
         "isActive_": true,
-        "appName_": "farmacias-de-plantao",
-        "appID_": "xdk.intel.blank.ad.template",
+        "appName_": "Farmácias de plantão",
+        "appID_": "com.evandroamparo.farmacias",
         "appAccess_": [
           {
             "origin": "*"
@@ -92,8 +92,8 @@
         "cordovaCLIVersion_": "4.1.2",
         "crosswalkVersion_": "11",
         "appVersion_": "0.0.1",
-        "appAuthor_": "Intel XDK",
-        "appDescription_": "Template to develop a Cordova mobile web app using the App Designer UI editor.",
+        "appAuthor_": "Evandro da Silva Amparo",
+        "appDescription_": "Consulte as farmácias de plantão nos próximos domingos e feriados",
         "appVersionCode_": "1"
       },
       "iOS": {
@@ -105,8 +105,8 @@
           "ios-configuration": "adhoc"
         },
         "isActive_": true,
-        "appName_": "farmacias-de-plantao",
-        "appID_": "xdk.intel.blank.ad.template",
+        "appName_": "Farmácias de plantão",
+        "appID_": "com.evandroamparo.farmacias",
         "appAccess_": [
           {
             "origin": "*"
@@ -120,8 +120,8 @@
         "cordovaCLIVersion_": "4.1.2",
         "crosswalkVersion_": "11",
         "appVersion_": "0.0.1",
-        "appAuthor_": "Intel XDK",
-        "appDescription_": "Template to develop a Cordova mobile web app using the App Designer UI editor."
+        "appAuthor_": "Evandro da Silva Amparo",
+        "appDescription_": "Consulte as farmácias de plantão nos próximos domingos e feriados"
       },
       "Windows8": {
         "platform_": "windows8",
@@ -132,8 +132,8 @@
           "windows-publisher-id": ""
         },
         "isActive_": true,
-        "appName_": "farmacias-de-plantao",
-        "appID_": "xdk.intel.blank.ad.template",
+        "appName_": "Farmácias de plantão",
+        "appID_": "com.evandroamparo.farmacias",
         "appAccess_": [
           {
             "origin": "*"
@@ -147,8 +147,8 @@
         "cordovaCLIVersion_": "4.1.2",
         "crosswalkVersion_": "11",
         "appVersion_": "0.0.0.1",
-        "appAuthor_": "Intel XDK",
-        "appDescription_": "Template to develop a Cordova mobile web app using the App Designer UI editor."
+        "appAuthor_": "Evandro da Silva Amparo",
+        "appDescription_": "Consulte as farmácias de plantão nos próximos domingos e feriados"
       },
       "WebApp": {
         "platform_": "webapp",
